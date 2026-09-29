@@ -29,6 +29,11 @@ The dashboard shows the performance of a digital marketing company and the campa
 - There is more to data preparation than data validation, alignment and formatting
 - Learnt how numbers speak and which numbers matter when it comes to business decisions and reporting.
 
+## Key Components 
+- Used bookmark in Campaign analysis page to show a matrix which is displayed when we click on the image link 'All' (All Campaigns)
+- AI Narrative implemented in Top Campaigns with a combo chart
+- In Ad Analysis I have again used bookmark to use another AI tool - Key Influencer 
+
 ## Dashboard Preview
 
 ### Performance Overview
