@@ -29,5 +29,26 @@ The dashboard shows the performance of a digital marketing company and the campa
 - There is more to data preparation than data validation, alignment and formatting
 - Learnt how numbers speak and which numbers matter when it comes to business decisions and reporting.
 
-## Preview
+## Dashboard Preview
+
+### Performance Overview
+![Performance Overview](Performance%20Overview.png)
+
+### Campaign Analysis
+![Campaign Analysis](Campaign%20Analysis.png)
+
+### Ad Analysis
+![Ad Analysis](Ad%20Analysis.png)
+
+### User Engagement Analysis
+![User Engagement Analysis](User%20Engagement%20Analysis.png)
+
+### Key Influencers
+![Ad Analysis - Key Influencer](Ad%20Analysis%20-%20Key%20Influencer.png)
+
+### Campaign Analysis – Matrix & Bookmark
+![Campaign Analysis Matrix](Campaign%20Analysis%20-%20Matrix%20-%20Bookmark.png)
+
+### Key Campaigns with AI Narrative
+![Key Campaigns with AI Narrative](Key%20Campaigns%20with%20AI%20Narrative.png)
 
